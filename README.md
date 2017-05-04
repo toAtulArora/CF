@@ -3,7 +3,7 @@ Resources corresponding to each meeting (where available) can be found in approp
 
 Disclaimer: I am responsible for possible mistakes made here and would be greatful if you could point them out.
 
-## (2017-2018) Semester 1
+### (2017-2018) Semester 1
 | Meeting (type)    | Topic  | Speaker   | Date |
 | --          | -- |-- | --| 
 | 4 (lecture, i)  | Mochon's paper (till the SDP)  | Atul  | May 4 |
@@ -11,7 +11,11 @@ Disclaimer: I am responsible for possible mistakes made here and would be greatf
 | 2 (progress)  | Towards a CT WCF with a Complex Hamiltonian  | Nicolas  | March 10 | 
 | 1 (progress)  | "Proof" of CT WCF => DT WCF  | Atul | February 23 | 
 
-## (2016-2017) Semester 2
+
+
+
+
+### (2016-2017) Semester 2
 | Meeting (type) | Topic  | Speaker   | Date |
 | -- | -- | --- | --|
 | 3 (discussion) | Quantum poisson process formulation and quantum random walk | Ognyan | November 28 |
