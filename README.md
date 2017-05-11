@@ -6,7 +6,8 @@ Disclaimer: I am responsible for possible mistakes made here and would be greatf
 ### (2017-2018) Semester 1
 | Meeting (type)    | Topic  | Speaker   | Date |
 | --          | -- |-- | --| 
-| 4 (lecture, i)  | Mochon's paper (till the SDP)  | Atul  | May 4 |
+| 5 (lecture, ii) | Mochon's paper (started §3) | Atul | May 10 |
+| 4 (lecture, i)  | Mochon's paper (§2, till the SDP)  | Atul  | May 4 |
 | 3 (progress)   | Findings on FT-CT WCF etc. and necessity of discritisation  | Atul  | April 20 |
 | 2 (progress)  | Towards a CT WCF with a Complex Hamiltonian  | Nicolas  | March 10 | 
 | 1 (progress)  | "Proof" of CT WCF => DT WCF  | Atul | February 23 | 
