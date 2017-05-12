@@ -6,7 +6,7 @@ Disclaimer: I am responsible for possible mistakes made here and would be greatf
 ### (2017-2018) Semester 1
 | Meeting (type)    | Topic  | Speaker   | Date |
 | --          | -- |-- | --| 
-| 6 (lecture, iii) | Plan: till [§4](MochonNotes/4_TIPG(Kitaev'sSecondFramework).PDF) at least and [§5](MochonNotes/5_zeroBias_part1.PDF) hopefully | Expected: Atul | Scheduled: May 12 |
+| 6 (lecture, iii) | Covered [§4](MochonNotes/4_TIPG(Kitaev'sSecondFramework).PDF) and [§5](MochonNotes/5_zeroBias_part1.PDF) left for self study | Atul | May 12 |
 | 5 (lecture, ii) | Mochon's paper (started [§3](MochonNotes/3_PointGameExamples.PDF)) | Atul | May 10 |
 | 4 (lecture, i)  | [Mochon](https://arxiv.org/abs/0711.4114)'s paper ([§1](MochonNotes/1_introduction.PDF) skimmed through and [§2](MochonNotes/2_Kitaev'sFramework.PDF), till the SDP)  | Atul  | May 4 |
 | 3 (progress)   | Findings on FT-CT WCF etc. and necessity of discritisation  | Atul  | April 20 |
