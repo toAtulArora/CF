@@ -3,7 +3,7 @@ Resources corresponding to each meeting (where available) can be found in approp
 
 Disclaimer: I am responsible for possible mistakes made here and would be greatful if you could point them out.
 
-### (2017-2018) Semester 1
+### (2017-2018) Semester 2
 | Meeting (type)    | Topic  | Speaker   | Date |
 | --          | -- |-- | --| 
 | 6 (lecture, iii) | Covered [§4](MochonNotes/4_TIPG(Kitaev'sSecondFramework).PDF) and [§5](MochonNotes/5_zeroBias_part1.PDF) left for self study | Atul | May 12 |
@@ -17,7 +17,7 @@ Disclaimer: I am responsible for possible mistakes made here and would be greatf
 
 
 
-### (2016-2017) Semester 2
+### (2016-2017) Semester 1
 | Meeting (type) | Topic  | Speaker   | Date |
 | -- | -- | --- | --|
 | 3 (discussion) | Quantum poisson process formulation and quantum random walk | Ognyan | November 28 |
