@@ -6,7 +6,9 @@ Disclaimer: I am responsible for possible mistakes made here and would be gratef
 ### (2017 End)
 | Meeting (type)    | Topic  | Speaker   | Date |
 | --          | -- |-- | --| 
-| 7 (progress) | WCF protocol beyond 1/6 | Atul |  September 25 |
+| 9 (progress + direction) | Review of WCF 1/10, Ideas on Lower Bounding number of rounds, CV motivation | Atul, Stephan, Jérémie (respectively) |  October 9 |
+| 8 (progress) | WCF with bias 1/10 (cont) | Atul |  September 26 |
+| 7 (progress) | WCF with bias 1/10 | Atul |  September 25 |
 
 ### (2017 Mid)
 | Meeting (type)    | Topic  | Speaker   | Date |
